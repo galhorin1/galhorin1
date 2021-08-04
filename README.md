@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @galhorin1
 - 👀 I’m interested in Android AND WEB development
-- 🌱 I’m currently learning WEB development
-- 💞️ I’m looking to collaborate on Android AND WEB projects
+- 💞️ I’m looking to collaborate on Android and WEB projects
 - 📫 How to reach me galhorin1@gmail.com
 
 <!---
