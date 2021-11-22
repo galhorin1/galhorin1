@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @galhorin
-- 📫 How to reach me galhorin1@gmail.com
+- I know python and android developement, currently studing Flutter&Dart for application developement
+- 📫 How to reach me galhorin1@gmail.com or on phone +972 52-7563457
 
 <!---
 galhorin1/galhorin1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
