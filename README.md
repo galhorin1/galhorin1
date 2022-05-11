@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @galhorin
-- I know python and android developement, currently studing Flutter&Dart for application developement
+- I know python and android developement,Flutter&Dart for application developement
 - 📫 How to reach me galhorin1@gmail.com or on phone +972 52-7563457
 
 <!---
