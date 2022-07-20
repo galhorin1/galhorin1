@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @galhorin
-- 
+- I am a DevOps student at Real-Time Group
+
 - 📫 How to reach me galhorin1@gmail.com or on phone +972 52-7563457
 
 <!---
